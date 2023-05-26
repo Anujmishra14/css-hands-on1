@@ -1,0 +1,40 @@
+h1{
+    color: red;
+}
+h2{
+    color: red;
+    font-style: italic;
+}
+li{
+    color: rgb(134, 32, 32);
+    
+}
+span{
+    font-weight: bold;
+}
+.item1{
+    text-decoration: line-through;
+}
+.item2{
+    background-color: yellow;
+
+}
+.item3{
+    text-decoration: underline;
+}
+ul{
+    letter-spacing: 5px;
+    
+}
+p{
+    margin: 15px;
+    color: rgb(173, 82, 7);
+
+}
+a{
+    color: rgb(212, 24, 24);
+    text-decoration: none;
+    background-color: yellow;
+    font-style: italic;
+
+}
